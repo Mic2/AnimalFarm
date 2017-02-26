@@ -1,0 +1,28 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AnimalFarm"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:ViewModels="using:AnimalFarm.ViewModels"
+    x:Class="AnimalFarm.MainPage"
+    mc:Ignorable="d">
+
+    <Page.DataContext>
+        <ViewModels:MainPageViewModel/>
+    </Page.DataContext>
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <ListView x:Name="AnimalListView" ItemsSource="{Binding AnimalsCollection, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" IsSwipeEnabled="False" IsHitTestVisible="False" HorizontalAlignment="Right">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Width="400" Margin="0,10,0,0" BorderThickness="1" BorderBrush="Black">
+                        <TextBlock Text="{Binding animalName}" Width="190" HorizontalAlignment="Right"/>
+                        <Image Source="{Binding animalImage}" Width="200" Height="150" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button x:Name="button" Content="Display all animals" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Command="{Binding ShowAnimalsCommand}"/>
+    </Grid>
+</Page>

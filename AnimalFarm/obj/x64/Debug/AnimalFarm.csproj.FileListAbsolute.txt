@@ -1,0 +1,764 @@
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\App.xbf
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\AnimalFarm.xr.xml
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\AnimalFarm.exe
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\AnimalFarm.pdb
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\resources.pri
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\AppxManifest.xml
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Core\AnimalFarm.exe
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Core\AppxManifest.xml
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\AnimalFarm.build.appxrecipe
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.CSharp.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Core.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Numerics.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.Serialization.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ServiceModel.Web.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ServiceModel.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Windows.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Xml.Linq.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Xml.Serialization.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Xml.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.VisualBasic.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Private.DataContractSerialization.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.AppContext.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Collections.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Collections.Concurrent.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Collections.NonGeneric.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Collections.Specialized.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ComponentModel.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ComponentModel.Annotations.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Data.Common.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Diagnostics.Contracts.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Diagnostics.Debug.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Diagnostics.Tools.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Diagnostics.Tracing.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Dynamic.Runtime.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Globalization.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Globalization.Calendars.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Globalization.Extensions.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.IO.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.IO.Compression.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\ClrCompression.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.IO.FileSystem.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.IO.IsolatedStorage.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Linq.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Linq.Expressions.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Linq.Parallel.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Linq.Queryable.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.Http.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.Http.Rtc.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.NetworkInformation.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.Primitives.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.Requests.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.Sockets.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ObjectModel.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Private.ServiceModel.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Private.Uri.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.Context.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.DispatchProxy.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.Emit.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.Extensions.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.Metadata.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.Primitives.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.TypeExtensions.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Resources.ResourceManager.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.Extensions.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.Handles.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.InteropServices.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.Numerics.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.WindowsRuntime.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Security.Claims.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Security.Principal.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ServiceModel.Duplex.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ServiceModel.Http.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ServiceModel.NetTcp.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ServiceModel.Primitives.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ServiceModel.Security.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Text.Encoding.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Text.Encoding.CodePages.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Text.RegularExpressions.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Threading.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Threading.Overlapped.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Threading.Tasks.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Threading.Timer.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Xml.ReaderWriter.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Xml.XDocument.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Xml.XmlDocument.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Xml.XmlSerializer.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\AnimalFarm.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\App.g.i.cs
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\App.g.cs
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\App.xaml
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\App.xbf
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\AnimalFarm.exe
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\AnimalFarm.pdb
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\ResourceHandlingTask.state
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Collections.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Data.Common.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.IO.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Linq.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.Http.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Threading.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\priconfig.xml
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\priconfig.xml.intermediate
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\layout.resfiles
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\layout.resfiles.intermediate
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\resources.resfiles
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\resources.resfiles.intermediate
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\pri.resfiles
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\pri.resfiles.intermediate
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\qualifiers.txt
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\ProjectArchitectures.txt
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Data.Sqlite.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.Options.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Remotion.Linq.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Console.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\clrjit.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\sqlite3.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Buffers.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Interactive.Async.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.NameResolution.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.WebSockets.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.WebSockets.Client.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Security.Cryptography.Cng.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Security.Cryptography.Encoding.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Security.Cryptography.Primitives.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Console.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Buffers.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.Data.Sqlite\en-US\Microsoft.Data.Sqlite.Strings.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.EntityFrameworkCore\en-US\Microsoft.EntityFrameworkCore.Properties.CoreStrings.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.EntityFrameworkCore.Relational\en-US\Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.EntityFrameworkCore.Sqlite\en-US\Microsoft.EntityFrameworkCore.Sqlite.Properties.SqliteStrings.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.Extensions.DependencyInjection\en-us\Microsoft.Extensions.DependencyInjection.Resources.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions\en-us\Microsoft.Extensions.DependencyInjection.Abstractions.Resources.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.Extensions.Logging.Abstractions\en-us\Microsoft.Extensions.Logging.Abstractions.Resource.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.Extensions.Options\en-us\Microsoft.Extensions.Options.Resources.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.Extensions.Primitives\en-us\Microsoft.Extensions.Primitives.Resources.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\AnimalFarm.csproj.GenerateResource.Cache
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Text.Encodings.Web.SR.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.AspNetCore.Http.Abstractions\en-us\Microsoft.AspNetCore.Http.Abstractions.Resources.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.EntityFrameworkCore.Design\en-US\Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.EntityFrameworkCore.Relational.Design\en-US\Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings.resw
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\Views\MainPage.g.i.cs
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\Views\MainPage.g.cs
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\Views\MainPage.xaml
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\obj\x64\Debug\Views\MainPage.xbf
+C:\Visual Studio Projects H5\AnimalFarm\AnimalFarm\bin\x64\Debug\Views\MainPage.xbf
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\App.g.i.cs
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\App.g.cs
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\Views\MainPage.g.i.cs
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\Views\MainPage.g.cs
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\App.xaml
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\Views\MainPage.xaml
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\App.xbf
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\Views\MainPage.xbf
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\XamlSaveStateFile.xml
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\AnimalFarm.exe
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\AnimalFarm.pdb
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\App.xbf
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Views\MainPage.xbf
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\AnimalFarm.xr.xml
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\AnimalFarm.exe
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\AnimalFarm.pdb
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\resources.pri
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\AppxManifest.xml
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Core\AnimalFarm.exe
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Core\AppxManifest.xml
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\AnimalFarm.build.appxrecipe
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.CSharp.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Data.Sqlite.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.EntityFrameworkCore.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.Options.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ComponentModel.DataAnnotations.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Core.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Numerics.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.Serialization.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ServiceModel.Web.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ServiceModel.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Windows.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Xml.Linq.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Xml.Serialization.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Xml.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.VisualBasic.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Remotion.Linq.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Collections.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Diagnostics.Tools.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Diagnostics.Tracing.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Globalization.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Globalization.Calendars.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.IO.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.Extensions.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.Primitives.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Resources.ResourceManager.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.Handles.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.InteropServices.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Text.Encoding.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Threading.Tasks.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Threading.Timer.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Console.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Diagnostics.Debug.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.IO.FileSystem.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.Primitives.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.Sockets.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.Extensions.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\clrjit.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\clrcompression.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Private.Uri.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\sqlite3.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.AppContext.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Buffers.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Collections.Concurrent.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Collections.Immutable.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Collections.NonGeneric.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Collections.Specialized.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ComponentModel.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ComponentModel.Annotations.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Data.Common.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Diagnostics.Contracts.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Dynamic.Runtime.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Globalization.Extensions.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Interactive.Async.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.IO.Compression.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.IO.IsolatedStorage.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Linq.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Linq.Expressions.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Linq.Parallel.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Linq.Queryable.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.Http.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.Http.Rtc.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.NameResolution.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.NetworkInformation.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.Requests.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.WebSockets.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.WebSockets.Client.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ObjectModel.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Private.DataContractSerialization.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Private.ServiceModel.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.Context.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.DispatchProxy.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.Emit.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.Emit.Lightweight.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.Metadata.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.TypeExtensions.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.Numerics.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.WindowsRuntime.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Security.Claims.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Security.Cryptography.Algorithms.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Security.Cryptography.Cng.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Security.Cryptography.Encoding.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Security.Cryptography.Primitives.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Security.Principal.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ServiceModel.Duplex.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ServiceModel.Http.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ServiceModel.NetTcp.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ServiceModel.Primitives.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ServiceModel.Security.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Text.Encoding.CodePages.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Text.Encodings.Web.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Text.RegularExpressions.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Threading.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Threading.Overlapped.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Xml.ReaderWriter.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Xml.XDocument.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Xml.XmlDocument.dll
+D:\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Xml.XmlSerializer.dll
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\ResourceHandlingTask.state
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.Microsoft.CSharp.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Collections.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.IO.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Console.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.IO.FileSystem.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.Primitives.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.Sockets.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Runtime.Extensions.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Private.Uri.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Buffers.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Collections.Concurrent.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Collections.Immutable.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Collections.Specialized.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Data.Common.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Globalization.Extensions.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.IO.Compression.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Linq.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Linq.Expressions.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Linq.Parallel.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Linq.Queryable.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.Http.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.NameResolution.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.Requests.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.WebSockets.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Numerics.Vectors.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.ObjectModel.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Private.ServiceModel.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Reflection.Metadata.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Runtime.Numerics.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Security.Claims.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Text.Encodings.Web.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Threading.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Threading.Overlapped.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Xml.XDocument.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.AspNetCore.Http.Abstractions\en-us\Microsoft.AspNetCore.Http.Abstractions.Resources.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.Data.Sqlite\en-US\Microsoft.Data.Sqlite.Strings.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.EntityFrameworkCore\en-US\Microsoft.EntityFrameworkCore.Properties.CoreStrings.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.EntityFrameworkCore.Design\en-US\Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.EntityFrameworkCore.Relational\en-US\Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.EntityFrameworkCore.Relational.Design\en-US\Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.EntityFrameworkCore.Sqlite\en-US\Microsoft.EntityFrameworkCore.Sqlite.Properties.SqliteStrings.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.Extensions.DependencyInjection\en-us\Microsoft.Extensions.DependencyInjection.Resources.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions\en-us\Microsoft.Extensions.DependencyInjection.Abstractions.Resources.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.Extensions.Logging.Abstractions\en-us\Microsoft.Extensions.Logging.Abstractions.Resource.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.Extensions.Options\en-us\Microsoft.Extensions.Options.Resources.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.Extensions.Primitives\en-us\Microsoft.Extensions.Primitives.Resources.resw
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\AnimalFarm.csproj.GenerateResource.Cache
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\priconfig.xml
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\priconfig.xml.intermediate
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\layout.resfiles
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\layout.resfiles.intermediate
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\resources.resfiles
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\resources.resfiles.intermediate
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\pri.resfiles
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\pri.resfiles.intermediate
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\qualifiers.txt
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\qualifiers.txt.intermediate
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\AnimalFarm\AnimalFarm\obj\x64\Debug\ProjectArchitectures.txt
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\App.xbf
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Views\MainPage.xbf
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\AnimalFarm.xr.xml
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\AnimalFarm.exe
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\AnimalFarm.pdb
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\resources.pri
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\AppxManifest.xml
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Core\AnimalFarm.exe
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Core\AppxManifest.xml
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\AnimalFarm.build.appxrecipe
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.CSharp.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Data.Sqlite.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.Options.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Core.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Numerics.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.Serialization.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ServiceModel.Web.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ServiceModel.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Windows.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Xml.Linq.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Xml.Serialization.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Xml.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.VisualBasic.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Remotion.Linq.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Collections.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Diagnostics.Tools.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Diagnostics.Tracing.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Globalization.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Globalization.Calendars.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.IO.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.Extensions.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.Primitives.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Resources.ResourceManager.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.Handles.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.InteropServices.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Text.Encoding.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Threading.Tasks.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Threading.Timer.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Console.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Diagnostics.Debug.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.IO.FileSystem.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.Primitives.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.Sockets.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.Extensions.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\clrjit.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\clrcompression.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Private.Uri.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\sqlite3.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.AppContext.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Buffers.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Collections.Concurrent.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Collections.NonGeneric.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Collections.Specialized.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ComponentModel.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ComponentModel.Annotations.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Data.Common.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Diagnostics.Contracts.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Dynamic.Runtime.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Globalization.Extensions.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Interactive.Async.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.IO.Compression.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.IO.IsolatedStorage.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Linq.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Linq.Expressions.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Linq.Parallel.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Linq.Queryable.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.Http.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.Http.Rtc.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.NameResolution.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.NetworkInformation.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.Requests.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.WebSockets.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Net.WebSockets.Client.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ObjectModel.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Private.DataContractSerialization.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Private.ServiceModel.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.Context.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.DispatchProxy.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.Emit.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.Metadata.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Reflection.TypeExtensions.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.Numerics.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.WindowsRuntime.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Security.Claims.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Security.Cryptography.Cng.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Security.Cryptography.Encoding.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Security.Cryptography.Primitives.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Security.Principal.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ServiceModel.Duplex.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ServiceModel.Http.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ServiceModel.NetTcp.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ServiceModel.Primitives.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.ServiceModel.Security.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Text.Encoding.CodePages.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Text.RegularExpressions.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Threading.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Threading.Overlapped.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Xml.ReaderWriter.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Xml.XDocument.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Xml.XmlDocument.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\bin\x64\Debug\System.Xml.XmlSerializer.dll
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\AnimalFarm.csprojResolveAssemblyReference.cache
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\App.g.i.cs
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\App.g.cs
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\Views\MainPage.g.i.cs
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\Views\MainPage.g.cs
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\App.xaml
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\Views\MainPage.xaml
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\App.xbf
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\Views\MainPage.xbf
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\AnimalFarm.exe
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\AnimalFarm.pdb
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\ResourceHandlingTask.state
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Collections.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.IO.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Console.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Buffers.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Data.Common.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Linq.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.Http.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Text.Encodings.Web.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Threading.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.AspNetCore.Http.Abstractions\en-us\Microsoft.AspNetCore.Http.Abstractions.Resources.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.Data.Sqlite\en-US\Microsoft.Data.Sqlite.Strings.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.EntityFrameworkCore\en-US\Microsoft.EntityFrameworkCore.Properties.CoreStrings.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.EntityFrameworkCore.Design\en-US\Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.EntityFrameworkCore.Relational\en-US\Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.EntityFrameworkCore.Relational.Design\en-US\Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.EntityFrameworkCore.Sqlite\en-US\Microsoft.EntityFrameworkCore.Sqlite.Properties.SqliteStrings.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.Extensions.DependencyInjection\en-us\Microsoft.Extensions.DependencyInjection.Resources.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions\en-us\Microsoft.Extensions.DependencyInjection.Abstractions.Resources.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.Extensions.Logging.Abstractions\en-us\Microsoft.Extensions.Logging.Abstractions.Resource.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.Extensions.Options\en-us\Microsoft.Extensions.Options.Resources.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\Microsoft.Extensions.Primitives\en-us\Microsoft.Extensions.Primitives.Resources.resw
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\AnimalFarm.csproj.GenerateResource.Cache
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\priconfig.xml
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\priconfig.xml.intermediate
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\layout.resfiles
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\layout.resfiles.intermediate
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\resources.resfiles
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\resources.resfiles.intermediate
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\pri.resfiles
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\pri.resfiles.intermediate
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\qualifiers.txt
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Visual Studio Workspaces\AnimalFarm\AnimalFarm\obj\x64\Debug\ProjectArchitectures.txt
